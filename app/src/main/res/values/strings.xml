@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">BAL Calculator</string>
+    <string name="lblWeight">Weight (lbs)</string>
+    <string name="txtHntWeight">Enter weight</string>
+    <string name="lblGender">Gender</string>
+    <string name="btnSave">Save</string>
+    <string name="lblDrinkSize">Drink Size</string>
+    <string name="rdBtnLblOneOz">1.5 oz</string>
+    <string name="rdBtnLblFiveOz">5 oz</string>
+    <string name="rdBtnLblTwelveOz">12 oz</string>
+    <string name="lblAlcoholPercentage">Alcohol %</string>
+    <string name="btnLblAddDrink">Add Drink</string>
+    <string name="btnLblReset">Reset</string>
+    <string name="lblBACLevel">BAC Level:</string>
+    <string name="lblStatus">Your Status:</string>
+    <string name="weightError">Please enter a valid weight in lbs</string>
+    <string name="saveError">Please click on the Save button then click on Add Drink</string>
+    <string name="maxCapacity">No more drinks for you! </string>
+    <string name="safe">You\'re Safe! </string>
+    <string name="careful">Be Careful... </string>
+    <string name="overLimit">Over the limit! </string>
+    <string name="action_settings">Settings </string>
+
+
+</resources>
